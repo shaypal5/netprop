@@ -1,0 +1,2 @@
+include versioneer.py
+include netprop/_version.py
