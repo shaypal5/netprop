@@ -1,6 +1,6 @@
-netprop |netprop_icon|
-##################
-|PyPI-Status| |PyPI-Versions| |Build-Status| |Codecov| |LICENCE|
+netprop
+#######
+.. |PyPI-Status| |PyPI-Versions| |Build-Status| |Codecov| |LICENCE|
 
 .. .. |netprop_icon| image:: https://github.com/shaypal5/netprop/blob/88d480fd90820ea58c062029ce7e926201794e47/netprop_small.png
 
