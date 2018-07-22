@@ -8,6 +8,7 @@ import versioneer
 
 
 INSTALL_REQUIRES = [
+    'click',
     'networkx',
 ]
 TEST_REQUIRES = [
